@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+from sarsCov2Lib import sarsCov2AminoAcidGrabber as sarsCov2AminoAcidGrabber
+
+sarsCov2AminoAcidGrabber.main()
